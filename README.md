@@ -1,6 +1,6 @@
 # vol_tst
 This was to illustrate an example of mapping *part* of a directory structure.
-If you look at `docker-compose.up`:
+If you look at `docker-compose.yml`:
 
 ```
 services:
